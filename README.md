@@ -12,24 +12,25 @@ Me chamo Jean Carlos, tenho 21 anos e sou natural da Bahia. Atualmente, estou cu
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="java" 
+    title="java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
  />   
  <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="c" 
+    title=c"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
  />   
+ 
  <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="docker" 
+    title="docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
